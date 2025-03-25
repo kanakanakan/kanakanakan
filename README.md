@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 - 2026.03：トライデントコンピュータ専門学校　Webデザイン学科　卒業見込み
 <br />
 
-## ⚒️使用可能
+## ⚒️使用可能な技術・ツール
 ![](https://skillicons.dev/icons?i=html,css,js,scss,figma,ps,ai,vscode,wordpress)
